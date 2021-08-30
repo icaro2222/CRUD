@@ -1,0 +1,39 @@
+* { margin: 0; padding: 0;}
+
+.content {
+    color: rgb(89, 0, 255);
+    position: relative;
+    
+}
+
+body {
+    background: rgb(236, 236, 255);
+
+}
+div {
+    color: blueviolet;
+    margin: 10px 10px;
+    width: 900px;
+    height: 8rem;
+    left: 23rem;
+}
+
+h1{
+    color: blueviolet;
+    position: relative;
+    top: auto;
+    left: 43rem;
+}
+
+h2 {
+    color: blueviolet;
+    position: relative;
+    top: 5rem;
+    left: 23rem;
+}
+
+.dev {
+    color: blueviolet;
+    position: relative;
+    
+}
